@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://www.dropbox.com/s/q0nuw0gvjghpbdg/stage-2.pth?raw=1'
+export_file_url = 'https://www.dropbox.com/s/fhbcwcs720jtm04/export.pkl?raw=1'
 export_file_name = 'export.pkl'
 
 classes = ['black', 'grizzly', 'teddys']
